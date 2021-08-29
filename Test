@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <title>jso-tpm-take-home-template-fun.html</title>
+
+  </head>
+
+  <body>
+
+    <p> <br>
+
+    </p>
+
+    <p>[Insert logo from primary.health]</p>
+
+    <p><br>
+
+    </p>
+
+    <p>Add in a second column to the table below and fill it in with your
+
+      details. <br>
+
+      Style everything else any way you'd like! 💖<br>
+
+      This is supposed to be fun. 🌈<br>
+
+    </p>
+
+    <table style="width: 100%;" border="1">
+
+      <tbody>
+
+        <tr>
+
+          <td>Today's date</td>
+
+        </tr>
+
+        <tr>
+
+          <td>First name</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Last name</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Position you are applying for</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Email</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Fun fact about yourself</td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+    <p> </p>
+
+    <br>
+
+    <p><button>Make this button do 2 things:<br>
+
+        1) change to or from your favorite color when hovered over. <br>
+
+        2) open a new tab to "https://www.primary.health" when clicked.</button></p>
+
+  </body>
+
+</html>
+
